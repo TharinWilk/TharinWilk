@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend web development
 - 🌱 I’m currently learning Vue.js
 - 💞️ I’m looking to collaborate on any projects
-- 📫 You can contact me through email if you want to collab or talk development
+- 📫 You can contact me through email (tharin.m.wilk@gmail.com) if you want to collab.
 
 <!---
 TharinWilk/TharinWilk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
