@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TharinWilk
 - 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning Nuxt.js and Vuetify
 - 💞️ I’m looking to collaborate on any projects
 - 📫 You can contact me through email (tharin.m.wilk@gmail.com) if you want to collab.
 
